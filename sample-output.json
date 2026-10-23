@@ -1,0 +1,40 @@
+[
+  {
+    "videoId": "iClQVIlWs5A",
+    "url": "https://www.youtube.com/watch?v=iClQVIlWs5A",
+    "title": "The Real Reason Your Rent Is So High",
+    "views": 199232,
+    "baselineViews": 26500,
+    "outlierScore": 7.52,
+    "baselineMethod": "channel-recent-median",
+    "neighboursCompared": 60,
+    "isShort": false,
+    "durationSeconds": 131,
+    "publishedAt": null,
+    "channelName": "Foundation for Economic Education",
+    "channelId": "UCialsmUlTRABKPw31VDx1eQ",
+    "channelUrl": "https://www.youtube.com/channel/UCialsmUlTRABKPw31VDx1eQ",
+    "channelSubscribers": 318000,
+    "viewsPerSubscriber": 0.627,
+    "source": "search:why rent is so high"
+  },
+  {
+    "videoId": "cbjBuB1iBGY",
+    "url": "https://www.youtube.com/watch?v=cbjBuB1iBGY",
+    "title": "Why rents are dramatically increasing across the United States",
+    "views": 855226,
+    "baselineViews": 192000,
+    "outlierScore": 4.45,
+    "baselineMethod": "channel-recent-median",
+    "neighboursCompared": 56,
+    "isShort": false,
+    "durationSeconds": 139,
+    "publishedAt": null,
+    "channelName": "60 Minutes",
+    "channelId": "UCsN32BtMd0IoByjJRNF12cw",
+    "channelUrl": "https://www.youtube.com/channel/UCsN32BtMd0IoByjJRNF12cw",
+    "channelSubscribers": 4220000,
+    "viewsPerSubscriber": 0.203,
+    "source": "search:why rent is so high"
+  }
+]
